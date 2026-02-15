@@ -1,39 +1,18 @@
-# Ronish Nadar
+# 💫 About Me:
+🔭 I’m currently working on: LLM/VLM-driven autonomy for robots — turning natural-language goals into robust multi-robot behavior using vision-based localization, motion planning (RRT*), and closed-loop control (Pure Pursuit + PID), with embedded bridges for real hardware.<br><br>👯 I’m looking to collaborate on: end-to-end robotics systems that combine perception + planning + control — multi-robot coordination, mapping/SLAM, and embedded integration (ESP32/STM32) with clean interfaces.<br><br>🤝 I’m looking for help with: making systems more deployment-ready: calibration/benchmarking, robustness to drift/slip, and improving real-time reliability (latency, jitter, comms).<br><br>🌱 I’m currently learning: stronger control (LQR/MPC/NMPC), better state estimation (VIO/SLAM), and scalable robotics software architecture.<br><br>💬 Ask me about: OpenCV (ArUco/ChArUco), sensor fusion (IMU + encoders), planning (A*, RRT*, Hybrid A*), control (PID/LQR basics), embedded comms (Wi-Fi/BLE/ESP-NOW), and integrating all of it into working robots.<br><br>⚡ Fun fact: I’ve built systems ranging from a 110 kV field robot (vision + thermal inspection) to a mapping robot that streams live sensing into a visualization stack.
 
-Robotics & Embedded Systems Engineer pursuing an M.S. in Mechatronics & Robotics at NYU. I build autonomous systems end-to-end — from embedded firmware for sensors/actuators and real-time communication to perception, planning, and control that works reliably on real hardware.
 
-**Portfolio:** https://ronishnadar.github.io/
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronish-nadar-56861221a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ronishnadar944) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rn2669@nyu.edu) 
 
----
-
-## What I work on
-- **Robotics autonomy stacks:** perception → planning → control → deployment
-- **Embedded systems:** ESP32/STM32 firmware, real-time I/O, comms (Wi-Fi/BLE/ESP-NOW), production reliability
-- **Perception & estimation:** OpenCV, fiducials (ArUco/AprilTag), sensor fusion, state estimation
-- **Planning & control:** A*/RRT*/Hybrid A*, Pure Pursuit, PID/LQR/MPC, trajectory tracking
-
----
-
-## Featured projects
-- **LLM/VLM Multi-Robot Framework** — “zero-code” multi-robot task sequencing using VLM perception + planning + execution  
-- **Dual Track Ackermann Drive Simulation** — Hybrid A* + B-spline smoothing + robust tracking control  
-- **110 kV Insulator Cleaning Robot (TATA Power)** — SCARA manipulator + embedded control + vision/thermal inspection  
-- **Punch ’n’ Pop** — accessibility-focused motion game using OpenCV + IMU + ESP-NOW  
-- **SONAR Mapping Robot** — micro-ROS streaming + fused odometry + RViz visualization
-
-(Links to individual repos and demos are in my portfolio.)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RonishNadar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RonishNadar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonishNadar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RonishNadar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Tools I use often
-**Languages:** C/C++, Python  
-**Robotics:** ROS 2, SLAM, navigation stacks, motion planning, control  
-**Embedded:** ESP32, STM32, UART/I2C/SPI/CAN/RS485, PCB design  
-**CV/AI:** OpenCV, VLM/LLM tooling, sensor fusion
-
----
-
-## Connect
-- **Email:** rn2669@nyu.edu  
-- **Portfolio:** https://ronishnadar.github.io/  
-- **LinkedIn:** (add your link here)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
